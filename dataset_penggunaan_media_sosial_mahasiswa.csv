@@ -1,0 +1,154 @@
+Student_ID,Age,Gender,Study_Program,Daily_Social_Media_Hours,Most_Used_Platform,Primary_Purpose,Sleep_Hours_Per_Day,Academic_Score,Addiction_Score
+SI001,20,Perempuan,Sistem Informasi,0.5,Instagram,Komunikasi,5.1,69.8,8
+SI002,19,Laki-laki,Sistem Informasi,5.6,YouTube,Pendidikan,7.0,89.4,3
+SI003,24,Perempuan,Manajemen,3.8,X,Informasi,5.2,78.4,3
+SI004,20,,Sistem Informasi,5.5,TikTok,Informasi,6.2,79.8,3
+SI005,23,Laki-laki,Manajemen,5.5,TikTok,Pendidikan,6.2,87.7,6
+SI006,dua puluh,Perempuan,Sistem Informasi,7.1,WhatsApp,Hiburan,7.3,67.8,10
+SI007,22,Perempuan,Akuntansi,4.3,WhatsApp,Komunikasi,7.1,70.2,10
+SI008,20,Laki-laki,Akuntansi,5.1,YouTube,Pendidikan,5.0,80.6,6
+SI009,22,Perempuan,Akuntansi,,WhatsApp,Informasi,8.4,75.6,5
+SI010,20,Laki-laki,Akuntansi,5.0,TikTok,Hiburan,6.4,69.7,4
+SI011,18,perempuan,Sistem Informasi,5.3,YouTube,Pendidikan,8.2,77.3,5
+SI012,18,Laki-laki,Akuntansi,5.6,tiktok,Pendidikan,6.6,78.7,2
+SI013,21,Laki-laki,Akuntansi,6.9,Tik Tok,Pendidikan,7.4,74.9,9
+SI014,23,Perempuan,Informatika,5.1,Instagram,Hiburan ,7.1,75.9,5
+SI015,20,Perempuan,Manajemen,7.5,,Informasi,9.0,85.2,6
+SI016,19,Perempuan,Sistem Informsi,3.5,TikTok,Komunikasi,6.4,72.3,2
+ SI017 ,20,Perempuan,Sistem Informasi,5.2,YouTube,Informasi,7.4,79.0,3
+SI018,19,Perempuan,Sistem Informasi,8.0,TikTok,Hiburan,8.6,66.2,3
+SI019,19,,Informatika,5.9,X,Komunikasi,7.7,70.6,3
+SI020,21,Laki-laki,Sistem Informasi,7.5,YouTube,Informasi,6.0,85.1,4
+SI021,150,Perempuan,Sistem Informasi,6.1,X,Komunikasi,6.4,88.3,3
+SI022,18,Perempuan,Akuntansi,27.5,TikTok,Pendidikan,8.4,88.2,6
+SI023,23,Laki-laki,Sistem Informasi,5.3,YouTube,Informasi,6.5,,8
+SI024,18,Perempuan,Sistem Informasi,4.9,Instagram,Pendidikan,-2.0,85.2,10
+SI025,20,Laki-laki,Informatika,4.8,Instagram,Informasi,6.4,73.0,15
+SI026,19,Laki-laki,Akuntansi,0.5,X,Informasi,8.3,68.0,8
+SI027,24,Perempuan,Informatika,6.0,X,Informasi,8.4,89.8,2
+SI028,23,Perempuan,Informatika,7.3,X,Hiburan,6.5,79.5,2
+SI029,21,Laki-laki,Informatika,6.9,Instagram,Hiburan,5.9,67.9,5
+SI030,24,Perempuan,Sistem Informasi,,TikTok,Pendidikan,6.2,84.9,10
+SI031,23,Perempuan,Manajemen,5.5,TikTok,Hiburan,8.5,80.3,9
+SI032,24,Laki-laki,Akuntansi,5.5,X,Komunikasi,8.3,85.5,8
+SI033,19,Perempuan,Sistem Informasi,6.7,WhatsApp,Informasi,6.6,85.9,5
+SI034,24,Laki-laki,Sistem Informasi,5.6,TikTok,Komunikasi,5.7,delapan puluh,5
+SI035,23,Laki-laki,Manajemen,0.6,YouTube,Komunikasi,7.0,73.7,8
+SI036,20,Perempuan,Informatika,5.8,WhatsApp,Informasi,6.1,79.9,7
+SI037,18,Laki-laki,Manajemen,4.4,WhatsApp,Komunikasi,7.4,82.1,10
+SI038,18,Laki-laki,Sistem Informasi,9.3,TikTok,Informasi,6.4,79.0,6
+SI039,20,Laki-laki,Akuntansi,7.5,Instagram,Komunikasi,7.3,77.7,3
+SI040,23,Laki-laki,Sistem Informasi,7.3,Instagram,Informasi,7.1,79.7,9
+SI041,22,Laki-laki,Manajemen,2.1,X,Informasi,6.4,72.4,1
+SI042,20,,Manajemen,4.3,TikTok,Pendidikan,6.3,87.8,9
+SI043,18,Laki-laki,Akuntansi,3.0,Instagram,Informasi,5.7,83.4,7
+SI044,18,Laki-laki,Manajemen,6.4,YouTube,Komunikasi,6.1,71.5,1
+SI045,21,Perempuan,Akuntansi,6.9,X,Komunikasi,7.0,87.6,6
+SI046,24,Perempuan,Sistem Informasi,7.1,YouTube,Pendidikan,5.9,80.3,3
+SI047,21,Perempuan,Sistem Informasi,4.5,WhatsApp,Komunikasi,6.9,68.6,3
+SI048,24,Perempuan,Manajemen,4.4,Instagram,Informasi,7.3,84.0,6
+SI049,20,Perempuan,Manajemen,5.3,Instagram,Informasi,4.7,82.2,8
+SI050,24,Laki-laki,Akuntansi,8.7,TikTok,Pendidikan,6.8,78.0,10
+SI051,20,Perempuan,Informatika,5.0,WhatsApp,Komunikasi,5.9,68.9,6
+SI052,22,Perempuan,Informatika,6.0,YouTube,Komunikasi,7.7,83.1,4
+SI053,24,Laki-laki,Informatika,4.7,WhatsApp,Hiburan,8.4,92.2,10
+SI054,22,Perempuan,Sistem Informasi,10.1,X,Komunikasi,6.9,85.8,2
+SI055,21,Perempuan,Manajemen,4.3,TikTok,Pendidikan,6.8,85.3,7
+SI056,23,Laki-laki,Informatika,2.4,Instagram,Pendidikan,7.4,74.0,1
+SI057,22,Laki-laki,Manajemen,,X,Hiburan,6.8,80.9,8
+SI058,19,Perempuan,Sistem Informasi,7.1,Instagram,Informasi,9.0,67.2,10
+SI059,21,Perempuan,Manajemen,6.8,YouTube,Pendidikan,7.2,70.9,1
+SI060,23,Laki-laki,Sistem Informasi,2.1,YouTube,Hiburan,7.7,80.9,8
+SI061,21,Perempuan,Manajemen,5.7,Instagram,Komunikasi,5.9,92.9,10
+SI062,18,Perempuan,Manajemen,7.4,Instagram,Hiburan,7.8,93.3,2
+SI063,24,Perempuan,Sistem Informasi,5.7,YouTube,Komunikasi,8.7,67.7,5
+SI064,19,Perempuan,Informatika,7.2,Instagram,Pendidikan,7.9,87.3,3
+SI065,18,Laki-laki,Manajemen,5.2,YouTube,Pendidikan,7.2,72.4,7
+SI066,21,Laki-laki,Sistem Informasi,2.2,,Hiburan,7.8,88.6,7
+SI067,23,Laki-laki,Manajemen,6.3,WhatsApp,Komunikasi,6.8,88.7,6
+SI068,24,Perempuan,Manajemen,2.9,WhatsApp,Pendidikan,6.6,75.2,5
+SI069,18,Laki-laki,Akuntansi,6.7,YouTube,Komunikasi,6.4,75.9,7
+SI070,18,Laki-laki,Akuntansi,3.2,Instagram,Pendidikan,7.1,82.9,2
+SI071,19,Laki-laki,Manajemen,7.3,X,Pendidikan,4.1,71.1,9
+SI072,18,Perempuan,Manajemen,3.4,YouTube,Komunikasi,7.5,88.1,2
+SI073,21,Perempuan,Manajemen,2.8,YouTube,Informasi,5.4,86.3,6
+SI074,20,Laki-laki,Sistem Informasi,2.4,X,Hiburan,6.5,86.8,7
+SI075,22,Perempuan,Akuntansi,5.3,X,Hiburan,5.3,86.3,8
+SI076,21,Laki-laki,Sistem Informasi,3.5,TikTok,Komunikasi,7.9,75.3,8
+SI077,18,Perempuan,Manajemen,8.3,YouTube,Pendidikan,6.6,81.3,9
+SI078,23,,Manajemen,3.5,YouTube,Komunikasi,6.9,84.0,4
+SI079,19,Laki-laki,Akuntansi,4.7,YouTube,Hiburan,9.0,84.2,8
+SI080,22,Perempuan,Informatika,6.3,Instagram,Informasi,5.6,91.6,9
+SI081,23,Perempuan,Akuntansi,4.3,WhatsApp,Komunikasi,6.5,77.4,6
+SI082,24,Perempuan,Akuntansi,5.6,YouTube,Komunikasi,6.6,80.6,3
+SI083,18,Laki-laki,Sistem Informasi,6.2,X,Hiburan,8.5,87.1,1
+SI084,24,Perempuan,Manajemen,6.1,YouTube,Hiburan,8.2,74.7,5
+SI085,20,Laki-laki,Sistem Informasi,5.1,TikTok,Informasi,5.9,81.2,5
+SI086,18,Laki-laki,Informatika,8.1,Instagram,Hiburan,7.8,91.5,7
+SI087,18,Perempuan,Informatika,7.6,YouTube,Pendidikan,5.1,87.2,5
+SI088,22,Perempuan,Akuntansi,4.6,X,Hiburan,7.7,77.8,9
+SI089,22,Perempuan,Akuntansi,2.6,WhatsApp,Pendidikan,7.2,83.4,3
+SI090,18,Laki-laki,Sistem Informasi,4.4,X,Informasi,6.9,,1
+SI091,24,Perempuan,Manajemen,4.1,YouTube,Pendidikan,6.2,77.5,5
+SI092,24,Perempuan,Manajemen,,YouTube,Informasi,5.2,90.7,8
+SI093,23,Perempuan,Sistem Informasi,6.4,YouTube,Komunikasi,5.5,82.1,6
+SI094,23,Laki-laki,Akuntansi,4.5,Instagram,Komunikasi,7.5,92.1,7
+SI095,18,Perempuan,Sistem Informasi,4.5,X,Hiburan,6.9,68.3,3
+SI096,20,Laki-laki,Informatika,6.9,TikTok,Komunikasi,6.0,70.5,8
+SI097,19,Perempuan,Informatika,7.9,X,Informasi,5.9,74.4,5
+SI098,18,Perempuan,Sistem Informasi,2.5,YouTube,Informasi,7.5,72.4,9
+SI099,19,Perempuan,Akuntansi,5.3,TikTok,Hiburan,6.7,83.2,3
+SI100,18,Laki-laki,Akuntansi,3.1,WhatsApp,Hiburan,8.1,79.9,6
+SI101,19,Perempuan,Akuntansi,5.5,YouTube,Hiburan,8.1,74.3,1
+SI102,24,Perempuan,Sistem Informasi,7.6,WhatsApp,Informasi,6.8,76.5,9
+SI103,24,Perempuan,Manajemen,6.1,TikTok,Komunikasi,8.3,85.1,8
+SI104,22,Perempuan,Akuntansi,3.0,YouTube,Pendidikan,8.5,76.0,9
+SI105,22,Perempuan,Manajemen,4.0,,Informasi,7.9,72.6,8
+SI106,18,Perempuan,Manajemen,3.0,YouTube,Hiburan,6.0,75.8,5
+SI107,20,Laki-laki,Sistem Informasi,3.8,TikTok,Informasi,6.4,74.7,8
+SI108,18,Laki-laki,Informatika,4.2,TikTok,Komunikasi,7.3,78.7,6
+SI109,23,Laki-laki,Akuntansi,6.1,YouTube,Hiburan,6.8,83.0,1
+SI110,24,Perempuan,Akuntansi,5.8,TikTok,Hiburan,7.7,82.8,9
+SI111,23,Perempuan,Informatika,7.3,Instagram,Informasi,7.9,82.6,5
+SI112,18,Laki-laki,Manajemen,4.5,YouTube,Komunikasi,8.3,79.4,7
+SI113,20,,Sistem Informasi,6.5,TikTok,Hiburan,6.1,81.6,10
+SI114,24,Perempuan,Manajemen,8.4,Instagram,Informasi,6.5,78.1,5
+SI115,21,Perempuan,Sistem Informasi,7.6,X,Pendidikan,8.1,77.9,1
+SI116,18,Perempuan,Akuntansi,7.2,YouTube,Pendidikan,8.1,77.1,3
+SI117,18,Perempuan,Sistem Informasi,8.6,Instagram,Hiburan,7.9,75.3,2
+SI118,24,Perempuan,Informatika,5.2,WhatsApp,Hiburan,7.1,84.1,1
+SI119,24,Perempuan,Sistem Informasi,6.0,WhatsApp,Informasi,5.3,80.4,7
+SI120,20,Laki-laki,Akuntansi,5.3,X,Hiburan,8.2,82.4,6
+SI121,19,Laki-laki,Manajemen,6.5,Instagram,Pendidikan,6.6,71.2,5
+SI122,21,Perempuan,Akuntansi,4.9,TikTok,Hiburan,7.0,75.3,2
+SI123,20,Perempuan,Manajemen,4.9,TikTok,Informasi,8.3,79.7,9
+SI124,20,Laki-laki,Sistem Informasi,6.3,X,Hiburan,6.9,75.8,7
+SI125,18,Perempuan,Informatika,5.4,Instagram,Komunikasi,7.4,85.4,5
+SI126,20,Laki-laki,Manajemen,4.3,YouTube,Hiburan,7.3,81.3,4
+SI127,22,Perempuan,Manajemen,7.2,X,Komunikasi,8.1,75.5,4
+SI128,24,Laki-laki,Manajemen,4.2,YouTube,Komunikasi,8.1,78.7,1
+SI129,22,Perempuan,Akuntansi,,TikTok,Pendidikan,7.6,86.9,4
+SI130,19,Perempuan,Manajemen,7.4,TikTok,Komunikasi,6.3,87.5,10
+SI131,18,Perempuan,Akuntansi,5.4,WhatsApp,Komunikasi,6.3,83.7,4
+SI132,20,Perempuan,Manajemen,6.5,TikTok,Pendidikan,8.6,73.0,5
+SI133,19,Perempuan,Manajemen,3.7,Instagram,Informasi,9.0,93.9,9
+SI134,20,Perempuan,Manajemen,5.3,TikTok,Hiburan,7.3,87.9,6
+SI135,22,Perempuan,Manajemen,8.7,TikTok,Pendidikan,6.3,76.8,3
+SI136,24,Perempuan,Manajemen,6.0,WhatsApp,Pendidikan,6.7,87.8,7
+SI137,23,Laki-laki,Informatika,5.0,X,Informasi,7.0,77.5,1
+SI138,21,Laki-laki,Informatika,7.3,Instagram,Pendidikan,7.4,79.2,10
+SI139,23,Perempuan,Informatika,6.5,X,Komunikasi,6.1,63.3,6
+SI140,18,Perempuan,Manajemen,3.6,WhatsApp,Informasi,6.1,77.2,10
+SI141,21,Laki-laki,Sistem Informasi,3.7,Instagram,Hiburan,7.5,84.0,3
+SI142,24,Perempuan,Informatika,5.8,TikTok,Hiburan,8.6,90.7,6
+SI143,18,Laki-laki,Akuntansi,3.4,YouTube,Komunikasi,5.8,81.8,2
+SI144,23,Laki-laki,Informatika,,YouTube,Pendidikan,6.4,88.6,6
+SI145,21,Laki-laki,Informatika,6.9,YouTube,Komunikasi,6.5,84.5,7
+SI146,19,Laki-laki,Sistem Informasi,1.7,YouTube,Komunikasi,7.7,79.7,2
+SI147,21,Perempuan,Manajemen,6.3,TikTok,Komunikasi,7.1,88.8,2
+SI148,20,Laki-laki,Informatika,2.4,TikTok,Hiburan,6.7,84.5,7
+SI149,18,Perempuan,Manajemen,9.1,WhatsApp,Informasi,7.5,77.1,6
+SI150,19,Perempuan,Sistem Informasi,5.7,Instagram,Hiburan,7.6,79.8,6
+SI001,20,Perempuan,Sistem Informasi,0.5,Instagram,Komunikasi,5.1,69.8,8
+SI002,19,Laki-laki,Sistem Informasi,5.6,YouTube,Pendidikan,7.0,89.4,3
+SI003,24,Perempuan,Manajemen,3.8,X,Informasi,5.2,78.4,3

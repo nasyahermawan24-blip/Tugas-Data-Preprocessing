@@ -1,0 +1,13 @@
+Analisis Penggunaan Media Sosial terhadap Pola Tidur dan Prestasi Akademik Mahasiswa
+
+Studi kasus ini membahas penggunaan media sosial di kalangan mahasiswa, seperti TikTok, Instagram, WhatsApp, YouTube, Facebook, X, dan platform lainnya. Media sosial sudah menjadi bagian dari aktivitas sehari-hari mahasiswa, baik untuk berkomunikasi, mencari informasi, belajar, maupun hiburan.
+
+Penggunaan media sosial dalam waktu yang berlebihan berpotensi berkaitan dengan perubahan pola tidur, tingkat kecanduan media sosial, serta prestasi akademik mahasiswa. Durasi penggunaan yang tinggi dapat menjadi salah satu hal yang perlu diperhatikan karena mahasiswa juga harus membagi waktu antara aktivitas di media sosial, waktu istirahat, dan kegiatan perkuliahan.
+
+Berdasarkan permasalahan tersebut, dilakukan pengumpulan data untuk mengetahui karakteristik penggunaan media sosial mahasiswa. Data yang digunakan terdiri dari 153 baris dan 10 variabel, yaitu Student_ID, Age, Gender, Study_Program, Daily_Social_Media_Hours, Most_Used_Platform, Primary_Purpose, Sleep_Hours_Per_Day, Academic_Score, dan Addiction_Score.
+
+Melalui data tersebut, dilakukan proses pengolahan dan pembersihan data (Data Preprocessing) menggunakan Python melalui Google Colab. Tahapan ini bertujuan untuk memeriksa kualitas data serta menangani permasalahan seperti nilai kosong, data duplikat, ketidakkonsistenan penulisan, ketidaksesuaian tipe data, nilai tidak valid, dan outlier.
+
+Data yang telah melalui proses preprocessing diharapkan dapat digunakan untuk analisis lebih lanjut mengenai karakteristik penggunaan media sosial mahasiswa serta kemungkinan keterkaitannya dengan pola tidur, tingkat kecanduan media sosial, dan prestasi akademik.
+
+Berdasarkan permasalahan tersebut, beberapa hal yang ingin diketahui melalui studi kasus ini adalah bagaimana karakteristik penggunaan media sosial mahasiswa berdasarkan durasi penggunaan setiap hari, platform yang paling sering digunakan, serta tujuan penggunaannya. Selain itu, bagaimana gambaran pola tidur, tingkat kecanduan media sosial, dan prestasi akademik mahasiswa berdasarkan data yang dikumpulkan? Apakah terdapat kemungkinan keterkaitan antara durasi penggunaan media sosial dengan pola tidur mahasiswa, serta antara tingkat kecanduan media sosial dengan prestasi akademik mahasiswa?
